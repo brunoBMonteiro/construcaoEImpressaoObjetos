@@ -7,4 +7,5 @@ const empresa = {
         number: 260
     }
 };
+
  console.log(`A empresa ${empresa.name} está localizada em ${empresa.address.street}, ${empresa.address.number}`)
